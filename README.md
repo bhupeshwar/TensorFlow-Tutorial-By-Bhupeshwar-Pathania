@@ -4,6 +4,22 @@ TensorFlow is a powerful open-source machine-learning framework developed by Goo
 It is used to implement machine learning and deep learning applications, for the development and research of fascinating ideas in artificial intelligence. 
 TensorFlow is designed with the Python programming language, which makes it an easily understandable framework.
 
+# What is TensorFlow?
+
+TensorFlow is a software library that excels in numerical computations and large-scale data analysis. It underpins various Google products, including search and recommendations, demonstrating its real-world prowess. TensorFlow offers two primary interfaces for building ML models:
+
+Keras: A high-level API ideal for beginners and rapid prototyping. Keras abstracts away complexities, enabling you to focus on model design and experimentation.
+TensorFlow Core API: A low-level, more granular approach offering finer control over model architecture and computations. This is preferred for experienced developers or situations requiring extensive customization.
+
+
+# Prerequisites
+
+Python for Data Science
+Math for Data Science
+Data Analysis
+Machine Learning
+Deep Learning
+
 # TensorFlow - Installation
 
 Step 1 − Verify the python version being installed.
