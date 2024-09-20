@@ -26,7 +26,7 @@ Step 1 − Verify the python version being installed.
 Step 2 − A user can pick up any mechanism to install TensorFlow in the system. I recommend “pip” and “Anaconda”. 
 Pip is a command used for executing and installing modules in Python.
 
-Before you install TensorFlow, you need to install Anaconda framework in our system.
+Before you install TensorFlow, you need to install Anaconda framework in your system.
 
 ![image](https://github.com/user-attachments/assets/ec703e69-ec74-4dd1-8fe9-e074ce527d14)
 
