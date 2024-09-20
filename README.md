@@ -1,4 +1,4 @@
-# TensorFlow-Tutorial-By-Bhupeshwar-Pathania
+# TensorFlow Tutorial By Bhupeshwar Pathania
 
 TensorFlow is a powerful open-source machine-learning framework developed by Google, that empowers developers to construct and train ML models. 
 It is used to implement machine learning and deep learning applications, for the development and research of fascinating ideas in artificial intelligence. 
@@ -14,10 +14,10 @@ TensorFlow Core API: A low-level, more granular approach offering finer control 
 
 # Prerequisites
 
-Python for Data Science
-Math for Data Science
-Data Analysis
-Machine Learning
+Python for Data Science,
+Math for Data Science,
+Data Analysis,
+Machine Learning,
 Deep Learning
 
 # TensorFlow - Installation
